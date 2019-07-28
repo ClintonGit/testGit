@@ -1,1 +1,1 @@
-echo "OK8"
+echo "Test Command function GitHUB"
