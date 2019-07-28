@@ -1,1 +1,1 @@
-echo "OK6"
+echo "OK7"
