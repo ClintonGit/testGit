@@ -1,1 +1,1 @@
-echo "Test Command"
+echo "Test Commands"
